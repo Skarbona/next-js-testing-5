@@ -1,0 +1,11 @@
+.DS_Store
+.history
+node_modules/
+dist/
+.env
+coverage/
+*.log
+*.tmp
+*.bak
+*.swp 
+.next/
